@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Dream Big and live your life"
 Use the left arrow to go back!
